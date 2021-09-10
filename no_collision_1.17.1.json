@@ -1,7 +1,6 @@
 {
-    "replace":false,
-    "values":
-    [
+    "replace": false,
+    "values": [
         "minecraft:air",
         "minecraft:attached_melon_stem",
         "minecraft:attached_pumpkin_stem",
